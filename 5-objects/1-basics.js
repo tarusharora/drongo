@@ -56,5 +56,5 @@ console.log(jon); // ->
 */
 
 
-let obj = {};
-console.log(obj.xyz); // -> undefined
+let obj = { };
+console.log( obj.xyz ); // -> undefined
