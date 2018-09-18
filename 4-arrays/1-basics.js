@@ -7,10 +7,10 @@ console.log(array[2]); // -> false
 console.log(array[3]); // -> 25
 console.log(array[4]); // -> Hi!
 
+//test message
 
 
-
-
+// test message 2
 let array = [10, 'abc', false, 25, 'Hi!'];
 console.log(array.length); // -> 5
 
