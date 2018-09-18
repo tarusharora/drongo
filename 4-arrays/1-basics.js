@@ -109,5 +109,4 @@ console.log(removedItems);
 
 
 var shallowCopy = fruits.slice(); // this is how to make a copy
-
 // ["Strawberry", "Mango"]
