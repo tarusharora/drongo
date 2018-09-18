@@ -34,8 +34,8 @@ console.log(jon['age']); // -> 34
 
 
 let jon = {
-    firstName: 'Ron',
-    lastName: 'Smith',
+    firstName: 'Son',
+    lastName: 'Smithh',
     age: 34,
     profession: 'Developer',
     married: true
