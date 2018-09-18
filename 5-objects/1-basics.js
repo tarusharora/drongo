@@ -1,5 +1,5 @@
 let jon = {
-    firstName: 'Jon',
+    firstName: 'Ron',
     lastName: 'Smith',
     age: 34,
     profession: 'Developer',
@@ -44,7 +44,7 @@ let jon = {
 jon.fullName = jon.firstName + jon.lastName;
 jon['hasChildren'] = true;
 
-console.log(jon); // ->
+console.log( jon ); // ->
 /*
 { firstName: 'Jon',
   lastName: 'Smith',
@@ -57,4 +57,4 @@ console.log(jon); // ->
 
 
 let obj = {};
-console.log(obj.xyz); // -> undefined
+console.log( obj.xyz ); // -> undefined
