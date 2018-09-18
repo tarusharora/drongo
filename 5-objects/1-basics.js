@@ -1,5 +1,5 @@
 let jon = {
-    firstName: 'Jon',
+    firstName: 'Ron',
     lastName: 'Smith',
     age: 34,
     profession: 'Developer',
